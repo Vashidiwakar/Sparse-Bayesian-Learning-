@@ -4,7 +4,7 @@ Implementation of "Sparse Bayesian Learning and the Relevance Vector Machine" by
 ## Paper Reference
 **Title:** Sparse Bayesian Learning and the Relevance Vector Machine  
 **Author:** Michael E. Tipping  
-**PDF:** [tipping.pdf](./tipping.pdf)
+**PDF:** [Read the paper](https://www.jmlr.org/papers/volume1/tipping01a/tipping01a.pdf)
 
 ---
 
